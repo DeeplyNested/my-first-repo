@@ -1,29 +1,18 @@
-# This is a large heading
+# I'm a savage (yeah)
 
-## This is a smaller heading
+##Classy, bougie, ratchet (yeah)
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
 
-- This is
-- an unordered
-- list
+**Sassy**, *moody*, nasty (hey, hey, yeah)
+Acting stupid, what's happening? (whoa, whoa)
+What's happening? (whoa, whoa)
+I'm a *savage*, yeah
+Classy, *bougie*, ratchet, yeah
+Sassy, **moody**, nasty, huh
+Acting stupid, what's happening?
+What's happening? (Ayy, ah)
 
-1. This is
-2. an ordered
-3. list
 
-Here is `some code` in the middle of a sentence.
-
-```
-This is
-a block
-of code
-```
-
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+[Queen info](https://en.wikipedia.org/wiki/Megan_Thee_Stallion).
+![This is an image.](https://www.nme.com/wp-content/uploads/2022/02/Megan-Thee-Stallion-ACL-2021.jpg)
 
